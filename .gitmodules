@@ -1,0 +1,6 @@
+[submodule "tortoise-tts"]
+	path = tortoise-tts
+	url = https://github.com/neonbjb/tortoise-tts.git
+[submodule "Wav2Lip"]
+	path = Wav2Lip
+	url = https://github.com/podocarp/Wav2Lip.git
